@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/io-demo/io-demo.iml" filepath="$PROJECT_DIR$/io-demo/io-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty.iml" filepath="$PROJECT_DIR$/netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-02/netty-02.iml" filepath="$PROJECT_DIR$/netty-02/netty-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-http/netty-http.iml" filepath="$PROJECT_DIR$/netty-http/netty-http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-serializable/netty-serializable.iml" filepath="$PROJECT_DIR$/netty-serializable/netty-serializable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-websocket/netty-websocket.iml" filepath="$PROJECT_DIR$/netty-websocket/netty-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty01/netty01.iml" filepath="$PROJECT_DIR$/netty01/netty01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nio-demo/nio-demo.iml" filepath="$PROJECT_DIR$/nio-demo/nio-demo.iml" />
+    </modules>
+  </component>
+</project>

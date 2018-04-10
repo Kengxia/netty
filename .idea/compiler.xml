@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="io-demo" />
+        <module name="netty-02" />
+        <module name="netty-http" />
+        <module name="netty-serializable" />
+        <module name="netty-websocket" />
+        <module name="netty01" />
+        <module name="nio-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="io-demo" target="1.8" />
+      <module name="netty" target="1.8" />
+      <module name="netty-02" target="1.8" />
+      <module name="netty-http" target="1.8" />
+      <module name="netty-serializable" target="1.8" />
+      <module name="netty-websocket" target="1.8" />
+      <module name="netty01" target="1.8" />
+      <module name="nio-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
